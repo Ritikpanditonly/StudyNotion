@@ -104,7 +104,7 @@ Made with ❤️ by Ritik Pandey
 
 🌐 Deployment
 
-Add deployment link here (e.g., Vercel, Netlify, Render, Railway etc.)
+https://studynotion-frontend-pink-two.vercel.app/
 
 📬 Contact
 
